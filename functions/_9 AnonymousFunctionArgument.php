@@ -21,7 +21,7 @@ sayGoodBye("Aris Afriyanto", $bye);
 
 
 echo PHP_EOL;
-// echo "\nMengakses variable diluar closure/diluar anonymous function\n";
+echo "\nMengakses variable diluar closure/diluar anonymous function\n";
 
 $jk = "Laki - laki";
 

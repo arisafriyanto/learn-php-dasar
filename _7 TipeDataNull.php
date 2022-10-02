@@ -3,7 +3,7 @@
 $nama = "aris";
 $nama = null;
 
-$age = NULL;
+$age = NuLL;
 
 echo "Name : " . $nama;
 echo "\n";

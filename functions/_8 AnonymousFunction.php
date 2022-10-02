@@ -10,5 +10,5 @@ $anonymous = function (string $name) {
 
 $anonymous("Aris Afriyanto");
 $anonymous("Adinda Ayu");
-$anonymous("Endang Sayang");
-$anonymous(100);
+$anonymous("Endang ");
+$anonymous([100]); // error

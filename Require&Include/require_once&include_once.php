@@ -4,7 +4,7 @@
 // include "Functions.php";
 
 /*
-    kode diatas akan membuat function ulang atau double  jadi tidak boleh
+    kode diatas akan membuat function ulang atau double  jadi tidak boleh dan akan terjadi error
 
     require_once dan include_once berfungsi untuk mendeteksi jika kita ambil file yang sama berkali kali atau include file yang sama berkali kali
 */

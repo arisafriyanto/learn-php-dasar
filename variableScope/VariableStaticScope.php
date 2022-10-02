@@ -26,10 +26,6 @@ increment();
 echo "\n\n";
 
 
-
-
-
-
 // STATIC
 
 function incrementStatic()

@@ -1,24 +1,22 @@
 <?php
 
-function foo()
-{
-    echo "This is Foo! \n";
-}
+// function foo()
+// {
+//     echo "This is Foo! \n";
+// }
+
+// $function = 'foo';
+// $function();
 
 
-$functionName = "foo";
-$functionName();
+// function bar()
+// {
+//     echo "This is bar! \n";
+// }
 
 
-
-function bar()
-{
-    echo "This is bar! \n";
-}
-
-
-$PangillBar = "bar";
-$PangillBar();
+// $PangillBar = "bar";
+// $PangillBar();
 
 
 //  PENGGUNAAN VARIABLE FUNCTION

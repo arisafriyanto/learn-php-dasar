@@ -7,7 +7,7 @@
 define("ARIS", "aku mahasiswa stmik widya utama");
 define("USIA", 19);
 
-const PHI = "cieee";
+const PHI = 3.14;
 
 echo ARIS;
 echo "\n";

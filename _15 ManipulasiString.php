@@ -9,7 +9,7 @@ echo "Usia " . 19.5 . PHP_EOL;
 $valueString = (string)100;
 var_dump($valueString);
 
-$valueInt = (int)"salah";
+$valueInt = (int)"false";
 var_dump($valueInt);
 
 $valueFloat = (float)"10.3";

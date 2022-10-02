@@ -18,13 +18,12 @@
 
 $buat = false;
 
-if ($buat) :
+if ($buat) {
 
     function sayHello()
     {
         echo "Kondisi True nIch \n";
     }
-
-endif;
+}
 
 sayHello();
